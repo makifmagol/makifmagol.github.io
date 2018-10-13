@@ -42,15 +42,15 @@ social:
   - title: twitter
     url: http://twitter.com/makifmagol
   - title: facebook
-    url:
+    url: http://facebook.com/makifmagol
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: http://stackoverflow.com/questions/tagged/makifmagol
   - title: github
     url: http://github.com/makifmagol
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Hacettep University
+  - line: Hacettepe University
   - line: Beytepe
 
 # Credits content
